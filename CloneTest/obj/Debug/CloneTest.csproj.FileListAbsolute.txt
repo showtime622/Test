@@ -1,0 +1,7 @@
+C:\Users\Super\source\repos\CloneTest\CloneTest\bin\Debug\CloneTest.exe.config
+C:\Users\Super\source\repos\CloneTest\CloneTest\bin\Debug\CloneTest.exe
+C:\Users\Super\source\repos\CloneTest\CloneTest\bin\Debug\CloneTest.pdb
+C:\Users\Super\source\repos\CloneTest\CloneTest\obj\Debug\CloneTest.csprojAssemblyReference.cache
+C:\Users\Super\source\repos\CloneTest\CloneTest\obj\Debug\CloneTest.csproj.CoreCompileInputs.cache
+C:\Users\Super\source\repos\CloneTest\CloneTest\obj\Debug\CloneTest.exe
+C:\Users\Super\source\repos\CloneTest\CloneTest\obj\Debug\CloneTest.pdb
